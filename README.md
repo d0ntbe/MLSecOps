@@ -60,6 +60,7 @@
 | Vigil-llm | Библиотека на Python и REST API сканер для анализа запросов и ответов на запросы Large Language Model для обнаружения уязвимостей. Этот репозиторий содержит сигнатуры обнаружения и наборы данных, необходимые для анализа. | https://github.com/deadbits/vigil-llm |
 | Watchtower | Открытый инструмент для сканирования моделей, встраивается в CI/CD. | https://github.com/bosch-aisecurity-aishield/watchtower |
 | Аudit-ai | Тестирование на предвзятость, ошибки прогнозов   для целей принятия социально значимых решений. Может строить графики bias (отклонение от ожидаемого) | https://github.com/pymetrics/audit-ai |
+| awesome-security-for-ai | Фреймворк, сборник материалов и инструментов | https://github.com/zmre/awesome-security-for-ai?tab=readme-ov-file | 
 | | | |
 
 **Таблица 2** — коммерческие решения для аудита безопасности ML;
@@ -72,6 +73,10 @@
 | Veil | Инструмент для анонимизации наборов данных. | https://veil.ai/ |
 | Guard-ai | Облачное решение для оценки безопасности моделей | https://github.com/guard-ai |
 | АI-guard | Анонимайзер на базе ИИ  | https://springlabs.com/ai-guard/|
+| model-scanner | Сканнер для поиска скрытых слоёв нейронки | https://hiddenlayer.com/model-scanner/ |
+| Patronus | Сканнер для поиска чувствительных данных | https://www.patronus.ai/ |
+| advai-versus | Red Team сканнер | https://www.advai.co.uk/ |
+| modelscan | SAST для MLM | https://protectai.com/modelscan |
 | | | |
 
 **Таблица 3** - Материалы и рекомендации по MLSecOps, которые могут быть использованы для построения процесса безопасности ML.
